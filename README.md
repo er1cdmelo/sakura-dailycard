@@ -1,7 +1,7 @@
 ﻿# 🌟 Sakura DailyCard
  
  ### 📱 App
- [Link to the app](https://sakura-dailycard-netlify.app)
+ [Link to the app](https://sakura-dailycard.netlify.app)
  
  ### 👨‍💻 Technologies
  -HTML
