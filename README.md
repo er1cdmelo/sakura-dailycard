@@ -1,13 +1,9 @@
 ﻿# 🌟 Sakura DailyCard
+ Pick up one random card every day from Cardcaptor Sakura!
  
- ### 📱 App
+ ## 📱 App
  [Link to the app](https://sakura-dailycard.netlify.app)
  
- ### 👨‍💻 Technologies
- -HTML
- -CSS
- -JavaScript
- 
- ### 📜 API
+ ## 📜 API
  [Sakura-Card-Captor-API](https://github.com/JessVel/sakura-card-captor-api)
  
